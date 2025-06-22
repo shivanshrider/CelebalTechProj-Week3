@@ -5,9 +5,6 @@
 ### Dashboard (Dark Mode)
 ![Dashboard Dark Mode](screenshots/dashboard-dark.png)
 
-### Dashboard (Light Mode)
-![Dashboard Light Mode](screenshots/dashboard-light.png)
-
 ### Line Chart (Dark Mode)
 ![Line Chart Dark Mode](screenshots/line-chart-dark.png)
 
@@ -96,21 +93,7 @@ A modern, professional, and fully customizable React Admin Dashboard featuring l
 - Test in both light and dark modes for best results.
 - Use environment variables for API endpoints and secrets.
 
----
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
